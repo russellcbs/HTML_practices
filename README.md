@@ -1,3 +1,3 @@
 # HTML_practices
 
-This is an repository for personal practice for CSS & HTML.
+This is an repository for personal practice of CSS & HTML.
