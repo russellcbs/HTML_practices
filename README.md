@@ -1,6 +1,11 @@
 # NEFE 2024
-This website is created to enhance communication and interaction among club members, via a non-profitting event.
-Given that some of the content distributed on this website may include unlicensed images, redistribution or modification of the content is not permitted without explicit permission.
+This website is created for a non-profitting club event called NEFE2024 (NTU Effectors' Festival), to enhance communication and interaction among club members.
 
+---
+This is also my first personal practice of CSS & HTML, collaborated with GPT-4o.
 
-(This is an repository for personal practice of CSS & HTML, collaborated with GPT-4o.)
+The homepage is almost finished, but the other page(RESULT for the event) is under construction.
+
+Functions TBD:
+* black mode
+* ...
